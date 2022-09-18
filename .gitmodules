@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "VaSP"]
+	path = VaSP
+	url = https://github.com/yuhuihui2011/vasp
+	shallow = true
+	registered = true
